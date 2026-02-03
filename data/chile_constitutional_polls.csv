@@ -1,0 +1,15 @@
+date,pollster,process,approve_pct,reject_pct,undecided_pct,sample_size,margin_error
+2021-07-15,CEP,2022_convention,67,18,15,1502,2.5
+2021-09-20,Cadem,2022_convention,64,21,15,709,3.7
+2021-11-10,Criteria,2022_convention,61,23,16,1200,2.8
+2022-01-15,CEP,2022_convention,58,27,15,1489,2.5
+2022-03-20,Cadem,2022_convention,52,32,16,712,3.7
+2022-05-15,CEP,2022_convention,46,38,16,1478,2.6
+2022-07-10,Criteria,2022_convention,42,44,14,1205,2.8
+2022-08-15,Cadem,2022_convention,38,48,14,715,3.7
+2022-09-04,official_result,2022_convention,38.1,61.9,0,NA,NA
+2023-05-15,CEP,2023_expert,48,32,20,1456,2.6
+2023-07-20,Cadem,2023_expert,51,34,15,708,3.7
+2023-09-10,Criteria,2023_expert,53,35,12,1198,2.9
+2023-11-15,CEP,2023_expert,54,38,8,1467,2.6
+2023-12-17,official_result,2023_expert,55.8,44.2,0,NA,NA

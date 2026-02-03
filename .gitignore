@@ -1,0 +1,24 @@
+# R
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+*.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (regenerable)
+output/figures/*.png
+output/tables/*.tex
+
+# Temporary files
+*.tmp
+*~
+\#*\#
+
+# IDE
+.vscode/
+.idea/
+*.swp
