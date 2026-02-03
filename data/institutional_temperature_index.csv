@@ -1,0 +1,8 @@
+dimension,argentina_score,chile_score,cooling_effect,notes
+supermajority_requirement,0,1,+,"Argentina: 50%+1; Chile: 60% for organic laws"
+mixed_commissions,0,1,++,"Argentina: no requirement; Chile: mandatory cross-party"
+cooling_off_periods,0.2,0.8,+,"Argentina: 48h minimum; Chile: 30-day minimum"
+expert_testimony_requirement,0,0.4,+,"Argentina: optional; Chile: mandatory for fiscal impact"
+mandatory_referendum_gates,0,1,++,"Argentina: rare; Chile: 2022, 2023 referenda"
+impeachment_threshold,1,0.4,+,"Argentina: 50%+1; Chile: 66%"
+total_temperature_index,1.2,4.4,NA,"Scale 0 (hottest) to 5 (coldest)"
